@@ -5,3 +5,7 @@
     4.Ussop
     5.sanji
     6.robin
+
+#notas
+    1.Ace
+    2.Sabo
